@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builds", "Builds", "{AC5FB2FF-D003-441C-A344-9EAF5D189FE9}"
 	ProjectSection(SolutionItems) = preProject
-		..\AppDemo.Client.nuspec = ..\AppDemo.Client.nuspec
+		AppDemo.Client.nuspec = AppDemo.Client.nuspec
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDemoClient", "AppDemoClient\AppDemoClient.csproj", "{69CB4A97-D794-4BB4-8FCA-57667C918848}"

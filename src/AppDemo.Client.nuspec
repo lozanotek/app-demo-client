@@ -11,7 +11,7 @@
         <tags>AppDemo API Client</tags>
     </metadata>
     <files>
-        <file src="content\*.*" target="content" />
+        <file src="AppDemoClient\content\*.*" target="content" />
         <file src="AppDemoClient\bin\release\AppDemo.Client.dll" target="lib\net46" />
         <file src="AppDemoClient\bin\release\AppDemo.Client.pdb" target="lib\net46" />
     </files>
