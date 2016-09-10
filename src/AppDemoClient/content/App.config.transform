@@ -1,0 +1,5 @@
+﻿<configuration>
+    <appSettings>
+        <add key="AppDemo.Url" value="http://lztk-appdemo.azurewebsites.net/" />
+    </appSettings>
+</configuration>
