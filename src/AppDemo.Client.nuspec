@@ -10,6 +10,9 @@
         <description>Client for AppDemo API.</description>
         <tags>AppDemo API Client</tags>
     </metadata>
+    <dependencies>
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.3" />
+    </dependencies>
     <files>
         <file src="AppDemoClient\content\*.*" target="content" />
         <file src="AppDemoClient\bin\release\AppDemo.Client.dll" target="lib\net46" />
